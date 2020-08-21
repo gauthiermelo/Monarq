@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Monarq</string>
     <string name="facebook_application_id" translatable="false">136832660912928</string>
-    <string name="facebook_login_protocol_scheme"   translatable="false">fb136832660912928</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb136832660912928</string>
+    <string name="retry">Retry</string>
+    <string name="post_error">!!!An error occurred while loading the posts!!!</string>
+    <string name="weekday_error">!!!An error occurred while loading the weekdays!!!</string>
+    <string name="title_activity_family_join">FamilyJoinActivity</string>
+    <string name="title_activity_family_create">FamilyCreateActivity</string>
+
 </resources>
